@@ -1,0 +1,9 @@
+# .readthedocs.yml
+# Read the Docs configuration file
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
+
+python:
+   version: 3.6
+
+formats: []
+html_static_path: []
