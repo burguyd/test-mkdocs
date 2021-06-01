@@ -9,5 +9,8 @@ mkdocs:
   configuration: mkdocs.yml
 
 # Optionally set the version of Python and requirements required to build your docs
+build:
+  image: latest
+
 python:
    version: 3.8
